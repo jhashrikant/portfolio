@@ -21,7 +21,7 @@ const Home = () => {
 						<TypingText />
 					</div>
 					<div className={styles.buttonContainer}>
-						<a href="/ShrikantnewFrontendResume.pdf" download className={styles.btn}>
+						<a href="/shrikantresume.pdf" download className={styles.btn}>
 							Download Resume <FontAwesomeIcon icon={faDownload} style={{ color: '#7562e0' }} />
 						</a>
 					</div>
