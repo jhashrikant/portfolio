@@ -3,7 +3,7 @@ import {
 	SiHtml5, SiCss3, SiJavascript, SiReact, SiNodedotjs, SiGithub, SiBootstrap,
 	SiTailwindcss, SiExpress, SiMongodb
 } from "react-icons/si";
-import { FaPhp } from "react-icons/fa";
+import {FaAws } from "react-icons/fa";
 import { RiNextjsFill } from "react-icons/ri";
 import styles from './Skill.module.css';
 
@@ -76,9 +76,9 @@ const skills = [
 	},
 	{
 		id: 12,
-		icon: <FaPhp />,
-		// color: '#F29111',
-		name: "Php"
+		icon: <FaAws />,
+		color: '#F29111',
+		name: "AWS"
 	},
 ];
 
