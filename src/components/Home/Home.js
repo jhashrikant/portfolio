@@ -15,13 +15,13 @@ const Home = () => {
 						<h3 className={styles.greeting}>Hello, I’m</h3>
 						<h2 className={styles.name}>Shrikant Jha</h2>
 						<p className={styles.description}>
-							I am a passionate Frontend Developer with a keen interest in creating interactive web applications.
+							I am a passionate Fullstack Developer with a keen interest in creating interactive web applications.
 
 						</p>
 						<TypingText />
 					</div>
 					<div className={styles.buttonContainer}>
-						<a href="/shrikantcv.pdf" download className={styles.btn}>
+						<a href="/CV_Shrikantfullstack_2025.pdf" download className={styles.btn}>
 							Download Resume <FontAwesomeIcon icon={faDownload} style={{ color: '#7562e0' }} />
 						</a>
 					</div>
@@ -32,7 +32,6 @@ const Home = () => {
 					</div>
 				</div>
 			</div>
-			{/* <div className={styles.hidebar}></div> */}
 		</>
 	);
 };

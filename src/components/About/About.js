@@ -11,7 +11,7 @@ const About = () => {
         <div className={styles.text}>
         
           <p className={styles.description}>
-            Hi, I'm <strong className={styles.highlight}>Shrikant Jha</strong>, a Frontend Developer working in <strong>Infosys</strong> specializing in creating engaging web interfaces. I focus on delivering seamless user experiences with modern web technologies like React and JavaScript.
+            Hi, I'm <strong className={styles.highlight}>Shrikant Jha</strong>, a Fullstack Developer working in <strong>Infosys</strong> specializing in creating engaging web interfaces. I focus on delivering seamless user experiences with modern web technologies like React and JavaScript.
           </p>
           <p className={styles.description}>
             My passion for tech drives me to explore both technical and creative aspects of development. Let's connect and build something amazing together!
