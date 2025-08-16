@@ -1,5 +1,5 @@
 import styles from "./About.module.css";
-import profilepic from "../assets/IMG-0015.jpg";
+import profilepic from "../assets/photo.jpg";
 
 const About = () => {
   return (

@@ -15,11 +15,6 @@ const Education = () => {
 					<p className={styles.university}>Mucchala Polytechnic</p>
 					<p className={styles.duration}>2015 - 2018</p>
 				</div>
-				{/* <div className={styles.box}>
-					<h2 className={styles.name}>SSC</h2>
-					<p className={styles.university}>Bhikamchand Khandelwal Vidyalaya</p>
-					<p className={styles.duration}>2014 - 2016</p>
-				</div> */}
 			</div>
 		</div>
 	);

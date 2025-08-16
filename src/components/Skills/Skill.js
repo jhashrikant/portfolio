@@ -1,9 +1,9 @@
-import React from 'react';
+
 import {
-	SiHtml5, SiCss3, SiJavascript, SiReact, SiNodedotjs, SiGithub, SiBootstrap,
+	SiHtml5, SiCss3, SiJavascript, SiReact, SiNodedotjs, SiGithub,
 	SiTailwindcss, SiExpress, SiMongodb
 } from "react-icons/si";
-import {FaAws } from "react-icons/fa";
+import { FaAws ,FaRobot} from "react-icons/fa";
 import { RiNextjsFill } from "react-icons/ri";
 import styles from './Skill.module.css';
 
@@ -46,9 +46,9 @@ const skills = [
 	},
 	{
 		id: 7,
-		icon: <SiBootstrap />,
+		icon: <FaRobot />,
 		color: '#7952B3',
-		name: "Bootstrap"
+		name: "Gen AI"
 	},
 	{
 		id: 8,

@@ -75,18 +75,6 @@ const Contact = () => {
 							</a>
 						)
 					})}
-					{/* <a href="https://www.linkedin.com/in/akshay-sable097/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
-						<FontAwesomeIcon icon={faLinkedinIn} />
-					</a>
-					<a href="https://www.facebook.com" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
-						<FontAwesomeIcon icon={faFacebookF} />
-					</a>
-					<a href="https://www.instagram.com/akshaysable02/" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
-						<FontAwesomeIcon icon={faInstagram} />
-					</a>
-					<a href="https://github.com/akkii02" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
-						<FontAwesomeIcon icon={faGithub} />
-					</a> */}
 				</div>
 				<div className={styles.contactCard}>
 					<button onClick={redirectToWhatsApp} className={styles.btn}>

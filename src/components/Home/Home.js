@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from './Home.module.css'; // Import the CSS module
-import profilepic from "../assets/IMG-0015.jpg";
+import profilepic from "../assets/photo.jpg";
 import TypingText from '../TypingText/TypingText';
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
@@ -21,7 +21,7 @@ const Home = () => {
 						<TypingText />
 					</div>
 					<div className={styles.buttonContainer}>
-						<a href="/CV_Shrikantfullstack_2025.pdf" download className={styles.btn}>
+						<a href="/CVShrikantnew_2025.pdf" download className={styles.btn}>
 							Download Resume <FontAwesomeIcon icon={faDownload} style={{ color: '#7562e0' }} />
 						</a>
 					</div>
